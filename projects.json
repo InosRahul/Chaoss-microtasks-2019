@@ -1,0 +1,18 @@
+{
+	"graphql-engine":{
+		"git":[
+			"https://github.com/hasura/graphql-engine"
+		],
+		"github":[
+			"https://github.com/hasura/graphql-engine"
+		]
+	},
+	"gitkube":{
+		"git":[
+			"https://github.com/hasura/gitkube"
+		],
+		"github":[
+			"https://github.com/hasura/gitkube"
+		]
+	}
+}

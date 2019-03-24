@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "9bf39990-4e3f-11e9-945c-4d70932336d9",
+    "_type": "dashboard",
+    "_source": {
+      "title": "Task 2 Dashboard",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"panelIndex\":\"2\",\"gridData\":{\"x\":0,\"y\":3,\"w\":12,\"h\":3,\"i\":\"2\"},\"id\":\"47a67160-4e3e-11e9-945c-4d70932336d9\",\"title\":\"Lines added vs removed\",\"type\":\"visualization\",\"version\":\"6.1.4-1\"},{\"panelIndex\":\"3\",\"gridData\":{\"x\":0,\"y\":6,\"w\":6,\"h\":3,\"i\":\"3\"},\"id\":\"git_areas_code_emergingtech_authors\",\"title\":\"Authors\",\"type\":\"visualization\",\"version\":\"6.1.4-1\"},{\"panelIndex\":\"4\",\"gridData\":{\"x\":6,\"y\":6,\"w\":6,\"h\":3,\"i\":\"4\"},\"id\":\"818b7f00-72da-11e8-a4e7-6b1c6a13c58d\",\"title\":\"Projects\",\"type\":\"visualization\",\"version\":\"6.1.4-1\"},{\"panelIndex\":\"5\",\"gridData\":{\"x\":0,\"y\":9,\"w\":6,\"h\":3,\"i\":\"5\"},\"id\":\"git_areas_of_code_file_exts\",\"title\":\"Most used File Extensions\",\"type\":\"visualization\",\"version\":\"6.1.4-1\"},{\"panelIndex\":\"6\",\"gridData\":{\"x\":6,\"y\":9,\"w\":6,\"h\":3,\"i\":\"6\"},\"id\":\"git_areas_code_emergingtech_projects\",\"title\":\"Most developed projects\",\"type\":\"visualization\",\"version\":\"6.1.4-1\"},{\"panelIndex\":\"7\",\"gridData\":{\"x\":1,\"y\":0,\"w\":10,\"h\":3,\"i\":\"7\"},\"version\":\"6.1.4-1\",\"type\":\"visualization\",\"id\":\"git_aoc_main_numbers\"}]",
+      "optionsJSON": "{\"darkTheme\":false,\"hidePanelTitles\":false,\"useMargins\":true}",
+      "uiStateJSON": "{\"P-3\":{\"vis\":{\"params\":{\"config\":{\"searchKeyword\":\"\"},\"sort\":{\"columnIndex\":null,\"direction\":null}}}},\"P-4\":{\"vis\":{\"params\":{\"config\":{\"searchKeyword\":\"\"},\"sort\":{\"columnIndex\":null,\"direction\":null}}}}}",
+      "version": 1,
+      "timeRestore": true,
+      "timeTo": "now",
+      "timeFrom": "now-1y",
+      "refreshInterval": {
+        "display": "Off",
+        "pause": false,
+        "value": 0
+      },
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"language\":\"lucene\",\"query\":\"\"},\"filter\":[],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  }
+]
